@@ -1,4 +1,4 @@
-# Automotive_fan_serial
+# Automotive_fan_serial  [![Build Status](https://travis-ci.com/FireCastLabs/Automotive_fan_serial.svg?branch=master)](https://travis-ci.com/FireCastLabs/Automotive_fan_serial)
 Sketch for running a motor off the Pololu G2 High-Power Motor Driver breakout board using the G2MotorDriver Library
 
 ## Summary
